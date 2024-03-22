@@ -1,4 +1,3 @@
-import numpy
 import numpy as np
 from math import pi, cos, sin
 from stl import mesh
